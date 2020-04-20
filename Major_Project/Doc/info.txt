@@ -1,0 +1,1 @@
+this folder includes some technical documents that may help build up the project.
