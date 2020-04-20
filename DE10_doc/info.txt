@@ -1,0 +1,1 @@
+This folder provides datasheets of the DE10-Nano development kit.
