@@ -4,7 +4,7 @@ Tutor’s name: Chris Harrison
 
 Author: Li Ding 
 
-##Introduction
+# Introduction
 
 Binary Coded Decimal (BCD) is the topic of this lab, which contains the goals as followed:
 
