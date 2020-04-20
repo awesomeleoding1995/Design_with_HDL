@@ -4,6 +4,8 @@ Tutor’s name: Chris Harrison
 
 Author: Li Ding
 
+# Introduction
+
 This lab basically demonstrates how to convert a truth table to a equivalent Boolean expression of SOP (sum of products) using
 shcematic capture in the Intel Quartus Prime platform. A simple waveform simulation will be conducted as well on Quartus.
 After finishing the implementation, a demonstration on DE10-Nano is requested.
