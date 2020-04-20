@@ -1,0 +1,2 @@
+this folder contains all simulation tcl scripts used in this lab.
+some of the scripts may have problem existed.
